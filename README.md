@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blesscode&label=Profile%20views&color=0e75b6&style=flat" alt="blesscode" /> </p>
 
-- 🔭 I’m currently working on **DevOps and Python based projects**
+- 🔭 I’m currently working and looking for opportunity **SpringBoot based projects**
 
 - 🌱 Looking out opportunity to collaborate and contribute to Opensource 
 
